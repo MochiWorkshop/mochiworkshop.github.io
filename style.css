@@ -37,8 +37,10 @@ hr {
 a {
    color: #89b4fa;
    text-decoration: none;
+   font-family: monospace;
 }
 
 a:hover {
    text-decoration: underline;
+   font-family: monospace;
 }
