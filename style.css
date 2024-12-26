@@ -6,14 +6,11 @@ html {
    color: #cdd6f4;
    opacity: 0;
    animation: fade 1s ease forwards;
+   font-family: monospace;
 }
 
 h1 {
    font-family: "Prompt";
-}
-
-h2 {
-   font-family: monospace;
 }
 
 @keyframes fade {
@@ -36,6 +33,4 @@ hr {
 
 a:link a:visited {
    color: #89b4fa;
-   text-decoration: none;
-   font-family: monospace;
 }
