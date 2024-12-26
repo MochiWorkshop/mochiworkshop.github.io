@@ -2,7 +2,7 @@
 
 html {
    text-align: center;
-   background-color: #221f30;
+   background-color: #1e1e2e;
    color: white;
    opacity: 0;
    animation: fade 1s ease forwards;
@@ -32,4 +32,13 @@ hr {
    border: none;
    background-color: #ffffff;
    position: relative;
+}
+
+a {
+   color: #89b4fa;
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
 }
